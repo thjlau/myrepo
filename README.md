@@ -1,4 +1,4 @@
-# Personal Projects
+# Personal Project
 
 Purpose: To collect data from a public database according to search criteria. 
 
